@@ -1,0 +1,4 @@
+discord.py 
+feedparser 
+requests 
+google-api-python-client
